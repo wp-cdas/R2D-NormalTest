@@ -3,4 +3,3 @@
 # for it here: https://anaconda.org/conda-forge
 #Using version numbers for your packages usually 
 # helps your environment build faster.
-r-tidyverse==1.2.1
