@@ -1,4 +1,4 @@
-FROM cdasdsp/datasci-rstudio-notebook:latest
+FROM cdasdsp/datasci-rstudio-notebook:c75a
 
 ARG NB_USER="dspuser"
 
